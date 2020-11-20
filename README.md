@@ -128,7 +128,7 @@ git branch -d [branch-name]
 git push origin --delete [branch-name]
 git branch -dr [remote/branch]
 ```
-六、标签
+## 六、标签
 ```
 # 列出所有tag
 git tag

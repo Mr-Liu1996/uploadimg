@@ -43,7 +43,7 @@ def main():
             fl = d["data"]["forecast"][0]["fl"] #风力
             ganmao = d["data"]["ganmao"] #感冒指数
             tips = d["data"]["forecast"][0]["notice"] #温馨提示
-            cpurl = 'https://push.xuthus.cc/send/8afe900dad69fa125ec237c6fb02543f'
+            cpurl = 'https://push.xuthus.cc/send/'
 
             tdwt = get_iciba_everyday()+"\n------------------------------------" + "\n【今日天气】\n城市：" + parent + city + \
                    "\n日期：" + date + "\n星期：" + week + "\n天气：" + weather_type + "\n温度：" + wendu_high + " / "+ wendu_low + "\n湿度：" + \

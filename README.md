@@ -1,5 +1,4 @@
 # 常用 Git 命令
-<iframe src="//player.bilibili.com/player.html?aid=712897882&bvid=BV17D4y1X7AT&cid=260839008&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 我每天使用 Git ，但是很多命令记不住。
 

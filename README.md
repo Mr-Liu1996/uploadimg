@@ -1,5 +1,6 @@
 # 常用 Git 命令
-<video src="https://b23.tv/AXJREu" width="800px" height="600px" controls="controls"></video>
+<iframe src="//player.bilibili.com/player.html?aid=712897882&bvid=BV17D4y1X7AT&cid=260839008&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 我每天使用 Git ，但是很多命令记不住。
 
 一般来说，日常使用只要记住下图6个命令，就可以了。但是熟练使用，恐怕要记住60～100个命令。
